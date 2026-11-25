@@ -13,7 +13,7 @@ We gather hostorical data from multiple pums and train/evaluate ML modes using S
 Clone the repository, create new environment and install the necessary packages
 
 ```
-git clone ssh://git@git.xfel.eu:10022/machineLearning/vacfault.git
+git clone https://github.com/aaminahmajid/VacFault.git
 cd vacfault
 python -m venv env
 source env/bin/activate
